@@ -23,7 +23,11 @@ public class ItemService {
                 new Item(1L, "Burger", 599L, "Tasty", "https://cdn.auth0.com/blog/whatabyte/burger-sm.png"),
                 new Item(2L, "Pizza", 299L, "Cheesy", "https://cdn.auth0.com/blog/whatabyte/pizza-sm.png"),
                 new Item(3L, "Tea", 199L, "Informative", "https://cdn.auth0.com/blog/whatabyte/tea-sm.png"),
-                new Item(4L,"Pasta",399L,"Tasty","https://img3.mashed.com/img/gallery/this-is-why-you-should-finish-cooking-pasta-in-a-pan/l-intro-1605920347.jpg")
+                new Item(4L,"Pasta",399L,"Tasty","https://img3.mashed.com/img/gallery/this-is-why-you-should-finish-cooking-pasta-in-a-pan/l-intro-1605920347.jpg"),
+                new Item(5L, "Chesscake", 299L, "Creamy", "https://www.nachhaltigleben.ch/images/stories/Rezepte/Vegan_Cheesecake_645.jpg"),
+                new Item(6L, "Hotdog", 499L, "Tasty", "https://www.wiesenhof-kochclub.de/site/assets/files/118182/geflugel-hot-dog-wuerstchen-adobestock_192175218.jpeg"),
+                new Item(7L, "Pancake", 399L, "Fluffy", "https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/full_width_tablet_4_3/public/2020-08/american_pancakes.jpg?h=4521fff0&itok=yvzcMTED"),
+                new Item(8L, "Muffins", 599L, "Fluffy", "https://www.oetker.de/Recipe/Recipes/oetker.de/de-de/baking/image-thumb__42747__RecipeDetail/muffins-mit-zweierlei-schokostueckchen.jpg")
         );
     }
 
